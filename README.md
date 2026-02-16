@@ -29,6 +29,8 @@
   </p>
 </div>
 
+[繁體中文版 (README_zh_TW.md)](README_zh_TW.md)
+
 A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
 
 

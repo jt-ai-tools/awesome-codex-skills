@@ -1,0 +1,136 @@
+# 翻譯進度追蹤 (Translation Progress Tracking)
+
+## 任務說明
+- [x] 將所有 `.md` 與 `.txt` 檔案翻譯為繁體中文（台灣慣用語）。
+- [x] 翻譯後的檔名應為 `[原始檔名]_zh_TW.md`。
+- [x] 修正所有中文版文件中的內部連結，指向對應的 `_zh_TW.md` 檔案。
+
+## 檔案清單
+
+- [x] README.md
+- [ ] brand-guidelines/LICENSE.txt (跳過)
+- [x] brand-guidelines/SKILL.md
+- [ ] canvas-design/LICENSE.txt (跳過)
+- [x] canvas-design/SKILL.md
+- [ ] canvas-design/canvas-fonts/*.txt (跳過)
+- [x] changelog-generator/SKILL.md
+- [x] competitive-ads-extractor/SKILL.md
+- [x] connect-apps/SKILL.md
+- [x] connect/SKILL.md
+- [x] content-research-writer/SKILL.md
+- [ ] create-plan/LICENSE.txt (跳過)
+- [x] create-plan/SKILL.md
+- [x] developer-growth-analysis/SKILL.md
+- [x] domain-name-brainstormer/SKILL.md
+- [x] email-draft-polish/SKILL.md
+- [x] file-organizer/SKILL.md
+- [ ] gh-address-comments/LICENSE.txt (跳過)
+- [x] gh-address-comments/SKILL.md
+- [ ] gh-fix-ci/LICENSE.txt (跳過)
+- [x] gh-fix-ci/SKILL.md
+- [x] image-enhancer/SKILL.md
+- [ ] internal-comms/LICENSE.txt (跳過)
+- [x] internal-comms/SKILL.md
+- [x] internal-comms/examples/3p-updates.md
+- [x] internal-comms/examples/company-newsletter.md
+- [x] internal-comms/examples/faq-answers.md
+- [x] internal-comms/examples/general-comms.md
+- [x] invoice-organizer/SKILL.md
+- [x] langsmith-fetch/SKILL.md
+- [x] lead-research-assistant/SKILL.md
+- [ ] linear/LICENSE.txt (跳過)
+- [x] linear/SKILL.md
+- [ ] mcp-builder/LICENSE.txt (跳過)
+- [x] mcp-builder/SKILL.md
+- [x] mcp-builder/reference/evaluation.md
+- [x] mcp-builder/reference/mcp_best_practices.md
+- [x] mcp-builder/reference/node_mcp_server.md
+- [x] mcp-builder/reference/python_mcp_server.md
+- [x] meeting-insights-analyzer/SKILL.md
+- [x] meeting-notes-and-actions/SKILL.md
+- [ ] notion-knowledge-capture/LICENSE.txt (跳過)
+- [x] notion-knowledge-capture/SKILL.md
+- [x] notion-knowledge-capture/evaluations/README.md
+- [x] notion-knowledge-capture/examples/conversation-to-faq.md
+- [x] notion-knowledge-capture/examples/decision-capture.md
+- [x] notion-knowledge-capture/examples/how-to-guide.md
+- [x] notion-knowledge-capture/reference/database-best-practices.md
+- [x] notion-knowledge-capture/reference/decision-log-database.md
+- [x] notion-knowledge-capture/reference/documentation-database.md
+- [x] notion-knowledge-capture/reference/faq-database.md
+- [x] notion-knowledge-capture/reference/how-to-guide-database.md
+- [x] notion-knowledge-capture/reference/learning-database.md
+- [x] notion-knowledge-capture/reference/team-wiki-database.md
+- [ ] notion-meeting-intelligence/LICENSE.txt (跳過)
+- [x] notion-meeting-intelligence/SKILL.md
+- [x] notion-meeting-intelligence/evaluations/README.md
+- [x] notion-meeting-intelligence/examples/customer-meeting.md
+- [x] notion-meeting-intelligence/examples/executive-review.md
+- [x] notion-meeting-intelligence/examples/project-decision.md
+- [x] notion-meeting-intelligence/examples/sprint-planning.md
+- [x] notion-meeting-intelligence/reference/brainstorming-template.md
+- [x] notion-meeting-intelligence/reference/decision-meeting-template.md
+- [x] notion-meeting-intelligence/reference/one-on-one-template.md
+- [x] notion-meeting-intelligence/reference/retrospective-template.md
+- [x] notion-meeting-intelligence/reference/sprint-planning-template.md
+- [x] notion-meeting-intelligence/reference/status-update-template.md
+- [x] notion-meeting-intelligence/reference/template-selection-guide.md
+- [ ] notion-research-documentation/LICENSE.txt (跳過)
+- [x] notion-research-documentation/SKILL.md
+- [x] notion-research-documentation/evaluations/README.md
+- [x] notion-research-documentation/examples/competitor-analysis.md
+- [x] notion-research-documentation/examples/market-research.md
+- [x] notion-research-documentation/examples/technical-investigation.md
+- [x] notion-research-documentation/examples/trip-planning.md
+- [x] notion-research-documentation/reference/advanced-search.md
+- [x] notion-research-documentation/reference/citations.md
+- [x] notion-research-documentation/reference/comparison-format.md
+- [x] notion-research-documentation/reference/comparison-template.md
+- [x] notion-research-documentation/reference/comprehensive-report-format.md
+- [x] notion-research-documentation/reference/comprehensive-report-template.md
+- [x] notion-research-documentation/reference/format-selection-guide.md
+- [x] notion-research-documentation/reference/quick-brief-format.md
+- [x] notion-research-documentation/reference/quick-brief-template.md
+- [x] notion-research-documentation/reference/research-summary-format.md
+- [x] notion-research-documentation/reference/research-summary-template.md
+- [ ] notion-spec-to-implementation/LICENSE.txt (跳過)
+- [x] notion-spec-to-implementation/SKILL.md
+- [x] notion-spec-to-implementation/evaluations/README.md
+- [x] notion-spec-to-implementation/examples/api-feature.md
+- [x] notion-spec-to-implementation/examples/database-migration.md
+- [x] notion-spec-to-implementation/examples/ui-component.md
+- [x] notion-spec-to-implementation/reference/milestone-summary-template.md
+- [x] notion-spec-to-implementation/reference/progress-tracking.md
+- [x] notion-spec-to-implementation/reference/progress-update-template.md
+- [x] notion-spec-to-implementation/reference/quick-implementation-plan.md
+- [x] notion-spec-to-implementation/reference/spec-parsing.md
+- [x] notion-spec-to-implementation/reference/standard-implementation-plan.md
+- [x] notion-spec-to-implementation/reference/task-creation-template.md
+- [x] notion-spec-to-implementation/reference/task-creation.md
+- [x] raffle-winner-picker/SKILL.md
+- [x] skill-creator/SKILL.md
+- [ ] skill-creator/license.txt (跳過)
+- [ ] skill-installer/LICENSE.txt (跳過)
+- [x] skill-installer/SKILL.md
+- [x] skill-share/SKILL.md
+- [ ] slack-gif-creator/LICENSE.txt (跳過)
+- [x] slack-gif-creator/SKILL.md
+- [x] spreadsheet-formula-helper/SKILL.md
+- [x] support-ticket-triage/SKILL.md
+- [x] tailored-resume-generator/SKILL.md
+- [x] template-skill/SKILL.md
+- [ ] theme-factory/LICENSE.txt (跳過)
+- [x] theme-factory/SKILL.md
+- [x] theme-factory/themes/arctic-frost.md
+- [x] theme-factory/themes/botanical-garden.md
+- [x] theme-factory/themes/desert-rose.md
+- [x] theme-factory/themes/forest-canopy.md
+- [x] theme-factory/themes/golden-hour.md
+- [x] theme-factory/themes/midnight-galaxy.md
+- [x] theme-factory/themes/modern-minimalist.md
+- [x] theme-factory/themes/ocean-depths.md
+- [x] theme-factory/themes/sunset-boulevard.md
+- [x] theme-factory/themes/tech-innovation.md
+- [x] video-downloader/SKILL.md
+- [ ] webapp-testing/LICENSE.txt (跳過)
+- [x] webapp-testing/SKILL.md
